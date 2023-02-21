@@ -1,0 +1,16 @@
+{
+    "contractName" : "RockPaperScissors",
+    "abi":[{
+    "inputs": [
+        {
+            "internalType": "enum RockPaperScissors.Choice",
+            "name": "playerChoice",
+            "type": "uint8"
+        }
+    ],
+    "name": "play",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+}]
+}
